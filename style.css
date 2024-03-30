@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    margin: 75px;
+    padding: 15px;
+}
+
+header {
+    position: absolute;
+    width: 1000px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #32c752;
+    padding: 10px;
+}
+
+nav {
+    margin: 30px 30px 30px 100px;
+    padding: 5px;
+}
+
+
+nav a {
+    margin: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid black;
+}
+
+h1 {
+    margin: 25px;
+}
+
+footer {
+    background-color: #32c752;
+    padding: 1px;
+    width: 1000px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+footer p {
+    font-size: 20px;
+    padding: 5px;
+}
